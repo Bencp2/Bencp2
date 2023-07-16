@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating the Python Tkinter Flash Card App! 
 - 🌱 I’m currently learning about Tkinter and how to apply it
-
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My favorite game is Minecraft, which I play in survival mode, and love finding ways to automate item collecting, sorting, and farming.
 
